@@ -1,0 +1,2 @@
+python-interpreter-path = "myenv/Scripts/python.exe"
+search-path = ["myenv/Lib/site-packages"]
